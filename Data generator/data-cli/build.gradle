@@ -1,0 +1,58 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '2.7.14'
+	id 'io.spring.dependency-management' version '1.0.15.RELEASE'
+//	id 'org.springframework.boot' version '3.1.2'
+//	id 'io.spring.dependency-management' version '1.1.2'
+	id 'eclipse'
+}
+
+group = 'com.tagit.mobeix.tools'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	sourceCompatibility = '11'
+//	sourceCompatibility = '17'
+}
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter'
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
+
+	// https://mvnrepository.com/artifact/com.univocity/univocity-parsers
+	implementation 'com.univocity:univocity-parsers:2.9.1'
+
+	// https://mvnrepository.com/artifact/com.github.rvesse/airline
+	implementation 'com.github.rvesse:airline:2.9.0'
+	
+	// https://mvnrepository.com/artifact/com.google.code.gson/gson
+//	implementation 'com.google.code.gson:gson:2.10.1'	
+	
+	// https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind
+	implementation 'com.fasterxml.jackson.core:jackson-databind'
+	// https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310
+	implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
+	
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+}
+
+tasks.named('bootJar') {
+	manifest {
+		attributes 'Main-Class': 'org.springframework.boot.loader.PropertiesLauncher'
+	}
+}
+
+tasks.named('test') {
+	// useJUnitPlatform()
+}

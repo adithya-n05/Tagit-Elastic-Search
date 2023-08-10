@@ -1,0 +1,40 @@
+import json
+import pandas as pd
+
+from datetime import datetime
+
+f = open("Data generator/Data/file.json")
+
+data = json.load(f)
+index = "data"
+id = 1
+newDataList = []
+
+k  =datetime.fromisoformat(data[1]['date']).date()
+k = k.strftime("%Y-%m-%d")
+print(k)
+
+daterange = pd.date_range(start=datetime.fromisoformat(data[0]['date']).date(), end=datetime.fromisoformat(data[-1]['date']).date(), freq="1D")
+
+BoolVal = False
+newval = 0
+
+
+with open("Data generator/Data/WriteData.json", "w") as write_file:
+    for i in range(len(daterange)):
+        for j in range(len(data)):
+            if pd.Timestamp.to_pydatetime(daterange[i]).date() == datetime.fromisoformat(data[j]['date']).date():
+                BoolVal = True
+                newval = j
+                break
+            else:
+                BoolVal = False
+        if BoolVal == True:
+            print("{\"index\": {\"_index\": \"data\", \"_id\": " + str(id) + "}}", file=write_file)
+            print(str(data[newval]).replace("\'", "\""), file=write_file)
+            id+=1
+        else:
+            print("{\"index\": {\"_index\": \"data\", \"_id\": " + str(id) + "}}", file=write_file)
+            print("{\"user\": \"C12032\", \"date\": \"" + daterange[i].strftime("%Y-%m-%d") + "\", \"activity\": \"BILLPAY\", \"data\": {\"schema\": \"BILLPAY\", \"schemaVersion\": 1, \"debitAccountId\": \"10000000001\", \"debitCcy\": \"SGD\", \"debitAmount\": 0, \"exchangeRate\": 1, \"localEquivAmount\": 0, \"localEquivRate\": 1, \"billerCode\": \"SINGTEL\", \"billerCcy\": \"SGD\", \"billAmount\": 0}}", file=write_file)
+            id += 1
+                

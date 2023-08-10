@@ -1,0 +1,6937 @@
+[ {
+  "user" : "C12032",
+  "date" : "2000-01-02T03:47:12.462810572+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000102034712462810572-038",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 79.77899378116986,
+    "longitude" : 81.49771590094201,
+    "accuracy" : 0.2083263248485423
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-02-02T09:26:18.734432871+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000202092618734432871-906",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 65.1257954636788,
+    "longitude" : 68.84552465667547,
+    "accuracy" : 0.613118845097353
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-03-03T20:00:32.029034256+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2000030320003229034256-432",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 73.95789633849584,
+    "longitude" : 15.969728294319411,
+    "accuracy" : 0.10544045103574973
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-04-03T00:15:14.7765923+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000403001514776592300-879",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 57.75499419589222,
+    "longitude" : 124.14018914688668,
+    "accuracy" : 0.16333341565337867
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.23,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.23,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.23
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-05-03T13:50:36.954865322+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000503135036954865322-619",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.6205922276598,
+    "longitude" : 74.42649349853119,
+    "accuracy" : 0.6344259893885906
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.19,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.19,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.19
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-06-02T13:27:51.409022402+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000602132751409022402-327",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 36.21861128323251,
+    "longitude" : 112.90060470419908,
+    "accuracy" : 0.23389577895250468
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.56,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.56,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.56
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-06-30T19:59:44.35334771+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000630195944353347710-322",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 60.747866108535234,
+    "longitude" : 35.276416746103415,
+    "accuracy" : 0.14427704873435643
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-07-31T09:58:09.528799517+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000731095809528799517-720",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 9.188819045620406,
+    "longitude" : 155.04308803774663,
+    "accuracy" : 0.8582310233921069
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-08-30T00:53:31.569516108+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000830005331569516108-780",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 39.2414096686336,
+    "longitude" : 65.89532609464037,
+    "accuracy" : 0.40851069353360503
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-09-29T04:58:09.782701178+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20000929045809782701178-464",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 21.58838442449216,
+    "longitude" : 77.46161676735858,
+    "accuracy" : 0.47594587088539453
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-10-27T10:27:12.455691249+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20001027102712455691249-859",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.980123673965814,
+    "longitude" : 160.5486225345392,
+    "accuracy" : 0.49279927053888706
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-11-24T22:59:58.371343515+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20001124225958371343515-391",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 65.73783874546194,
+    "longitude" : 174.31968251997034,
+    "accuracy" : 0.0860835273148477
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2000-12-25T17:23:22.204964131+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20001225172322204964131-793",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 45.687127755061496,
+    "longitude" : 96.60447733763857,
+    "accuracy" : 0.20195009556451127
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 14.40,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 14.40,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 14.40
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-01-24T09:07:00.918676868+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010124090700918676868-430",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 69.19841594912435,
+    "longitude" : 142.56238853112788,
+    "accuracy" : 0.6073971928369986
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-02-23T11:46:24.857611914+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010223114624857611914-933",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 43.74578595565346,
+    "longitude" : 0.36489436686219623,
+    "accuracy" : 0.07648913746900299
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-03-22T08:27:38.7843937+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010322082738784393700-338",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 88.65650242174812,
+    "longitude" : 123.38203917867475,
+    "accuracy" : 0.23776069806713584
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-04-23T03:56:29.512031432+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010423035629512031432-464",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 71.44114880924428,
+    "longitude" : 5.242159125137016,
+    "accuracy" : 0.8085763912411017
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-05-22T12:38:32.867093147+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010522123832867093147-049",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 10.609253260996002,
+    "longitude" : 127.38421141288602,
+    "accuracy" : 0.39444265452168725
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-06-22T21:17:50.5740985+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010622211750574098500-080",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 38.86391519579628,
+    "longitude" : 23.738612610514892,
+    "accuracy" : 0.06252090793874632
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-07-20T17:43:12.183645716+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010720174312183645716-810",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 20.116343770463775,
+    "longitude" : 92.24052420402259,
+    "accuracy" : 0.19456516091591747
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-08-20T17:13:55.010926172+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2001082017135510926172-377",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.28689343920293,
+    "longitude" : 55.36670096024839,
+    "accuracy" : 0.11642315398738634
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-09-21T15:38:31.695191699+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20010921153831695191699-482",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 72.15447150280089,
+    "longitude" : 165.32536412803913,
+    "accuracy" : 0.18328257031664985
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-10-19T12:17:45.542867952+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20011019121745542867952-477",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 22.280995979935664,
+    "longitude" : 44.63729224470838,
+    "accuracy" : 0.6342161048110111
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.98,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.98,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.98
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-11-16T20:56:29.907506898+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20011116205629907506898-619",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 40.227639162986925,
+    "longitude" : 121.8285820083403,
+    "accuracy" : 0.6140881225498066
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2001-12-14T15:25:05.651405381+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20011214152505651405381-969",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 70.99274528245816,
+    "longitude" : 94.14549335643187,
+    "accuracy" : 0.9623380812734575
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-01-11T20:24:31.987090457+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020111202431987090457-785",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 62.10988122275003,
+    "longitude" : 160.04887909338322,
+    "accuracy" : 0.9213731312301968
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-02-11T01:52:30.289219108+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020211015230289219108-872",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 4.034822359322478,
+    "longitude" : 84.50922294773382,
+    "accuracy" : 0.448507861508849
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-03-11T09:27:18.812721635+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020311092718812721635-001",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 76.63379106159762,
+    "longitude" : 67.02969682080109,
+    "accuracy" : 0.7503456949490271
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-04-11T02:10:30.578721208+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020411021030578721208-175",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 71.57532606643149,
+    "longitude" : 87.80534839988884,
+    "accuracy" : 0.3705127370981036
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-05-10T15:11:39.189312968+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020510151139189312968-605",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 66.41925485623797,
+    "longitude" : 61.38578208485073,
+    "accuracy" : 0.9095349284716296
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-06-10T15:22:06.295747193+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020610152206295747193-547",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 62.94651337240124,
+    "longitude" : 145.88810984982743,
+    "accuracy" : 0.34603528857765864
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-07-10T09:00:57.282268814+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020710090057282268814-517",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 68.81561555592855,
+    "longitude" : 105.15379455986141,
+    "accuracy" : 0.7604006141018402
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-08-09T10:59:30.765345623+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020809105930765345623-470",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.154334660947576,
+    "longitude" : 176.7457015830418,
+    "accuracy" : 0.5187746825261914
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 9.95,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 9.95,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 9.95
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-09-09T19:33:00.889950869+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20020909193300889950869-058",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 80.72876098454492,
+    "longitude" : 118.13338417947608,
+    "accuracy" : 0.8528846014732306
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-10-10T02:49:53.38816173+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20021010024953388161730-352",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 14.324877852719471,
+    "longitude" : 90.43099246478599,
+    "accuracy" : 0.9129868606370949
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-11-08T10:11:46.26582613+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20021108101146265826130-087",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 25.576517171672545,
+    "longitude" : 10.275537428870614,
+    "accuracy" : 0.15556949111716278
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2002-12-06T12:37:51.361875738+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20021206123751361875738-989",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 11.590735863476242,
+    "longitude" : 145.1278621298835,
+    "accuracy" : 0.3902526839726628
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.36,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.36,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.36
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-01-07T01:29:26.063807803+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2003010701292663807803-224",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 4.453511848394954,
+    "longitude" : 71.178647114448,
+    "accuracy" : 0.4961311537507507
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-02-07T04:38:46.318306182+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030207043846318306182-730",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 68.01964073142048,
+    "longitude" : 147.27158581577243,
+    "accuracy" : 0.28185196241010935
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.86,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.86,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.86
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-03-07T04:29:29.875320438+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030307042929875320438-369",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.85588751756424,
+    "longitude" : 28.207256350013534,
+    "accuracy" : 0.5669018145755842
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 9.96,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 9.96,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 9.96
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-04-08T21:12:47.316579164+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030408211247316579164-813",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.39384002111737,
+    "longitude" : 13.45431678586553,
+    "accuracy" : 0.24102988941317394
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-05-09T10:16:50.15431794+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030509101650154317940-447",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 10.856736563218425,
+    "longitude" : 57.53959275624416,
+    "accuracy" : 0.3512358977147946
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-06-09T04:59:08.942062874+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030609045908942062874-856",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.335462799910154,
+    "longitude" : 97.18109462805673,
+    "accuracy" : 0.15104572559588603
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-07-08T09:37:50.93269847+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030708093750932698470-867",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 50.63244278315202,
+    "longitude" : 5.55521012478827,
+    "accuracy" : 0.8569932991359822
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-08-08T05:23:43.621902118+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030808052343621902118-759",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 67.79010876596934,
+    "longitude" : 127.77858955651024,
+    "accuracy" : 0.38205520865111176
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-09-05T23:05:32.25611021+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20030905230532256110210-843",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 53.028248853638054,
+    "longitude" : 137.68894138315096,
+    "accuracy" : 0.06096707488179365
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-10-03T02:48:47.70919634+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20031003024847709196340-224",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 8.240917242656604,
+    "longitude" : 98.84618650754858,
+    "accuracy" : 0.6762807949991989
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-10-31T11:58:37.698405618+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20031031115837698405618-102",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 72.69210768356908,
+    "longitude" : 125.92010406292704,
+    "accuracy" : 0.49673533667107017
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.66,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.66,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.66
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-11-28T13:56:24.080175994+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2003112813562480175994-851",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 80.0690045884586,
+    "longitude" : 141.5432426663311,
+    "accuracy" : 0.7999923700631612
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2003-12-26T11:06:53.639342597+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20031226110653639342597-075",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.73215827031865,
+    "longitude" : 154.09802249531302,
+    "accuracy" : 0.9830234330972132
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-01-26T23:03:56.30555481+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040126230356305554810-039",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 10.45871376280344,
+    "longitude" : 66.56897021260207,
+    "accuracy" : 0.5139480405732568
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-02-25T03:57:38.87875494+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040225035738878754940-576",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 52.21136410460419,
+    "longitude" : 167.9626670588811,
+    "accuracy" : 0.6753596590306828
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-03-25T09:22:31.650855064+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040325092231650855064-887",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.11796914644087,
+    "longitude" : 2.506333898935431,
+    "accuracy" : 9.323703990274934E-4
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-04-23T20:17:33.359692816+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040423201733359692816-094",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 71.32401860260659,
+    "longitude" : 38.02634166477992,
+    "accuracy" : 0.970179680178978
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-05-24T14:35:15.153761872+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040524143515153761872-985",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 27.698017007003426,
+    "longitude" : 27.227036653525445,
+    "accuracy" : 0.5985612008872182
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-06-25T06:32:14.364934389+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040625063214364934389-303",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 74.90295747154573,
+    "longitude" : 27.115531965562717,
+    "accuracy" : 0.19926728660224935
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-07-23T00:36:50.098699804+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2004072300365098699804-121",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.06128610840658,
+    "longitude" : 87.96157074145358,
+    "accuracy" : 0.2670540592196705
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 14.47,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 14.47,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 14.47
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-08-20T16:03:14.33576412+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040820160314335764120-103",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.97374197099517,
+    "longitude" : 76.1658935166444,
+    "accuracy" : 0.4685772006454182
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-09-17T18:46:48.951664556+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20040917184648951664556-209",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 72.0754965397226,
+    "longitude" : 111.0886653942248,
+    "accuracy" : 0.5412196802253342
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.17,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.17,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.17
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-10-15T03:12:28.48681536+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20041015031228486815360-297",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.131581616435886,
+    "longitude" : 83.85810885903295,
+    "accuracy" : 0.6255705199434675
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-11-15T16:31:24.901587941+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20041115163124901587941-014",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 60.08440658168471,
+    "longitude" : 22.87968190212661,
+    "accuracy" : 0.22131704325990986
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2004-12-16T12:42:40.444577159+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20041216124240444577159-619",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 81.44778060782943,
+    "longitude" : 67.92955261939262,
+    "accuracy" : 0.29479821662654204
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-01-17T17:08:50.670651362+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050117170850670651362-258",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 74.35100316110508,
+    "longitude" : 103.47157013176482,
+    "accuracy" : 0.29535464304341386
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-02-16T22:31:22.862741298+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050216223122862741298-744",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 67.03881126216125,
+    "longitude" : 92.53023107821618,
+    "accuracy" : 0.9727515246875151
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-03-17T17:03:34.310293378+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050317170334310293378-386",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.273171996420025,
+    "longitude" : 90.76746877847337,
+    "accuracy" : 0.5561636029175254
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.02,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.02,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.02
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-04-15T10:13:23.105362302+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050415101323105362302-944",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 12.080997876467848,
+    "longitude" : 110.40856988811522,
+    "accuracy" : 0.7249385372370402
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-05-13T22:11:32.715968008+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050513221132715968008-960",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 53.82181019037516,
+    "longitude" : 111.33609898473638,
+    "accuracy" : 0.5087702122368295
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-06-10T09:06:41.001373236+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-200506100906411373236-708",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 52.7801864972156,
+    "longitude" : 178.9336309196197,
+    "accuracy" : 0.14239824119278965
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-07-08T12:25:03.130165397+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050708122503130165397-072",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 82.2045485396257,
+    "longitude" : 72.30648308901131,
+    "accuracy" : 0.797214304645922
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-08-08T21:34:51.753509529+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050808213451753509529-372",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 77.5371604468697,
+    "longitude" : 27.029888239641295,
+    "accuracy" : 0.24684991512211907
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-09-09T07:38:52.986561413+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20050909073852986561413-227",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.61292326428475,
+    "longitude" : 63.53828688428513,
+    "accuracy" : 0.31358737142529725
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-10-07T16:26:38.938281645+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20051007162638938281645-897",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 37.19909608426061,
+    "longitude" : 38.18303164782107,
+    "accuracy" : 0.9228027172033629
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.62,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.62,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.62
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-11-07T21:45:17.146303189+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20051107214517146303189-524",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 81.37988892054737,
+    "longitude" : 59.04559904230279,
+    "accuracy" : 0.985066021830076
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2005-12-08T11:27:03.091533622+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2005120811270391533622-717",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 0.9663327062952276,
+    "longitude" : 52.108802035885006,
+    "accuracy" : 0.906065740037744
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-01-06T06:02:20.481070641+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060106060220481070641-092",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 74.97735456079845,
+    "longitude" : 70.30821757838096,
+    "accuracy" : 0.9414597058597738
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-02-07T14:32:19.070141061+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2006020714321970141061-295",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 39.666274971879645,
+    "longitude" : 72.21359078575259,
+    "accuracy" : 0.3417157412010897
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-03-08T23:46:06.56565331+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060308234606565653310-293",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 30.189889208677233,
+    "longitude" : 112.36011073497107,
+    "accuracy" : 0.20462584212137036
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-04-07T18:52:11.323589703+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060407185211323589703-652",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.37564817989107,
+    "longitude" : 41.30782517397933,
+    "accuracy" : 0.4248913129453644
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-05-05T21:19:28.546959761+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060505211928546959761-066",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 42.64822834039676,
+    "longitude" : 102.06570550826997,
+    "accuracy" : 0.16367331368832094
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-06-05T04:35:39.662363367+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060605043539662363367-415",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 74.54604763365923,
+    "longitude" : 77.89026034158987,
+    "accuracy" : 0.45738687461557703
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-07-05T02:05:15.789145689+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060705020515789145689-359",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 52.88532644676431,
+    "longitude" : 68.33208894509481,
+    "accuracy" : 0.2859798253742495
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-08-04T23:41:47.948881551+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060804234147948881551-282",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 74.13843311375726,
+    "longitude" : 107.31657624527493,
+    "accuracy" : 0.28768362528842806
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.49,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.49,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.49
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-09-01T02:26:57.718050688+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060901022657718050688-651",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 21.033316199148715,
+    "longitude" : 169.47940390662828,
+    "accuracy" : 0.25726721247996487
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-09-29T11:57:21.950595407+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20060929115721950595407-250",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 35.49402433861211,
+    "longitude" : 156.80005399340527,
+    "accuracy" : 0.874548882177956
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-10-30T05:41:47.392936643+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20061030054147392936643-496",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 3.9039811297301696,
+    "longitude" : 60.26852451159742,
+    "accuracy" : 0.49533851471431756
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-11-29T20:25:07.982956904+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20061129202507982956904-780",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 86.4465250378536,
+    "longitude" : 149.39358070443234,
+    "accuracy" : 0.9476346745913021
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2006-12-28T17:51:08.837924974+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20061228175108837924974-126",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.988177834845864,
+    "longitude" : 179.4365861529403,
+    "accuracy" : 0.34634109223797627
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-01-29T17:40:03.497075838+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20070129174003497075838-868",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 79.41633002237616,
+    "longitude" : 169.46532376580134,
+    "accuracy" : 0.9856247897255923
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.46,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.46,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.46
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-02-28T01:44:26.001889713+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-200702280144261889713-816",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 15.729819289370193,
+    "longitude" : 140.3256201010648,
+    "accuracy" : 0.8978142039221124
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-03-28T07:29:21.071635085+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2007032807292171635085-408",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 80.97033419613668,
+    "longitude" : 105.21701475964258,
+    "accuracy" : 0.2070549553494433
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.06,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.06,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.06
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-04-27T13:52:24.496170821+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20070427135224496170821-510",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 56.06901031806965,
+    "longitude" : 66.01909321876374,
+    "accuracy" : 0.6423131009775752
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-05-28T05:13:25.813158712+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20070528051325813158712-206",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 1.9093150688190408,
+    "longitude" : 108.7004718829001,
+    "accuracy" : 0.23565074613965364
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-06-28T01:29:46.112793266+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20070628012946112793266-559",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 51.36772447040082,
+    "longitude" : 116.0654980231681,
+    "accuracy" : 0.3306355889741134
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-07-27T23:02:53.877921761+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20070727230253877921761-862",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 18.63766954182986,
+    "longitude" : 31.030909568165853,
+    "accuracy" : 0.9649736303174672
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-08-24T07:02:42.084073099+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2007082407024284073099-580",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 70.82759249961862,
+    "longitude" : 59.306888104474716,
+    "accuracy" : 0.6154428299462009
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-09-24T17:49:51.849712501+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20070924174951849712501-633",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 29.337591443373142,
+    "longitude" : 73.78885915539648,
+    "accuracy" : 0.9206153075615566
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-10-24T16:43:58.324778518+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20071024164358324778518-034",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 53.09984064409648,
+    "longitude" : 61.89219652921543,
+    "accuracy" : 0.6475731418722727
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.03,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.03,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.03
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-11-23T18:31:47.940254341+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20071123183147940254341-508",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.39102766513595,
+    "longitude" : 101.14973254227064,
+    "accuracy" : 0.17300054448466406
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2007-12-24T23:35:17.862712099+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20071224233517862712099-060",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 14.82378949017551,
+    "longitude" : 115.59106715353775,
+    "accuracy" : 0.48498235064623885
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-01-25T18:16:14.263392949+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080125181614263392949-617",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 32.16615283720987,
+    "longitude" : 159.68978994831676,
+    "accuracy" : 0.8708820606383806
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.91,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.91,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.91
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-02-26T02:27:43.372480129+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080226022743372480129-714",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 46.24852398363734,
+    "longitude" : 167.50929831934587,
+    "accuracy" : 0.4035731160040106
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-03-26T14:30:44.341454585+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080326143044341454585-947",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 6.988034556715165,
+    "longitude" : 77.82624616932962,
+    "accuracy" : 0.3947413527879975
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-04-25T21:33:07.604658317+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080425213307604658317-149",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 45.495685529357495,
+    "longitude" : 134.41223382582305,
+    "accuracy" : 0.919707873532388
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-05-23T18:20:15.986405175+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080523182015986405175-505",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 67.50712289770703,
+    "longitude" : 60.648326853246466,
+    "accuracy" : 0.4904740694373414
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-06-23T01:23:02.642823312+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080623012302642823312-055",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 40.322562591536744,
+    "longitude" : 54.36107274415731,
+    "accuracy" : 0.3932578846986633
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-07-23T09:59:15.33268044+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080723095915332680440-699",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.566830012281244,
+    "longitude" : 3.0316876578621454,
+    "accuracy" : 0.6809423928388315
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.16,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.16,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.16
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-08-22T05:34:46.514649173+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080822053446514649173-377",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 35.809030018285355,
+    "longitude" : 99.24343734446566,
+    "accuracy" : 0.8633025207943177
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 9.83,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 9.83,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 9.83
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-09-22T08:05:12.906588846+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20080922080512906588846-267",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 10.21138524769649,
+    "longitude" : 86.97062775721041,
+    "accuracy" : 0.27146729003483305
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-10-22T06:24:33.605959089+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20081022062433605959089-617",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 62.00328904616781,
+    "longitude" : 93.07780369162518,
+    "accuracy" : 0.09247120591369473
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-11-21T23:49:35.96143067+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20081121234935961430670-029",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 5.465997173982627,
+    "longitude" : 46.410875021062054,
+    "accuracy" : 0.4356049658102875
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2008-12-19T05:52:52.419268584+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20081219055252419268584-227",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.13101062695125,
+    "longitude" : 116.91295295909728,
+    "accuracy" : 0.978730892774573
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-01-19T21:11:33.704016161+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090119211133704016161-128",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 86.42898292503762,
+    "longitude" : 51.393397300184446,
+    "accuracy" : 0.7088926862579813
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-02-19T14:41:31.709461575+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090219144131709461575-869",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.72359460912604,
+    "longitude" : 158.32427518388502,
+    "accuracy" : 0.7735338779140136
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-03-18T08:40:19.973309605+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090318084019973309605-989",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 16.386341282621817,
+    "longitude" : 127.33928836992074,
+    "accuracy" : 0.7425651803560067
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-04-17T06:28:47.354621936+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090417062847354621936-834",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 73.9452478598234,
+    "longitude" : 39.7749591065689,
+    "accuracy" : 0.812390146623649
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-05-15T08:28:52.162105743+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090515082852162105743-511",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 42.86458190155173,
+    "longitude" : 22.269480234173912,
+    "accuracy" : 0.23724215308117202
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.85,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.85,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.85
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-06-16T02:13:48.246973888+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090616021348246973888-083",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 46.14981828805627,
+    "longitude" : 150.91664109911807,
+    "accuracy" : 0.4241274159451608
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-07-15T00:56:31.777468983+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090715005631777468983-953",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 72.21248229049178,
+    "longitude" : 116.3784266940459,
+    "accuracy" : 0.4308111350589122
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-08-14T13:58:05.535230557+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090814135805535230557-405",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 41.26961855271303,
+    "longitude" : 39.49572703563568,
+    "accuracy" : 0.640604671033366
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-09-14T16:49:33.703863013+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20090914164933703863013-991",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 7.231967337857146,
+    "longitude" : 153.42048535958003,
+    "accuracy" : 0.7326260749879185
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-10-14T20:28:01.652113611+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20091014202801652113611-668",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 23.428955941173715,
+    "longitude" : 77.93362331902388,
+    "accuracy" : 0.9910644726652668
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.08,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.08,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.08
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-11-13T06:55:41.143099927+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20091113065541143099927-996",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.9935971786874,
+    "longitude" : 132.92199462267396,
+    "accuracy" : 0.500321596130433
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2009-12-14T19:15:24.67524115+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20091214191524675241150-692",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 31.793897509420812,
+    "longitude" : 85.04938715008842,
+    "accuracy" : 0.28308542136915626
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-01-14T08:36:56.307481749+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100114083656307481749-736",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 88.12086875778735,
+    "longitude" : 160.81638189450453,
+    "accuracy" : 0.26965167853387717
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-02-12T20:04:04.442305474+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100212200404442305474-893",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 30.68422734744119,
+    "longitude" : 85.0314389868107,
+    "accuracy" : 0.20862695771576445
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-03-12T17:17:42.927860647+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100312171742927860647-194",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 56.164076819978625,
+    "longitude" : 60.44119623223518,
+    "accuracy" : 0.2801213542242006
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-04-13T04:40:18.713352817+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100413044018713352817-424",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.695604240285434,
+    "longitude" : 17.0850659774494,
+    "accuracy" : 0.8600796271098335
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-05-14T09:00:37.406174154+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100514090037406174154-422",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 36.33471765448241,
+    "longitude" : 80.2940623901617,
+    "accuracy" : 0.23470061016062094
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 14.09,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 14.09,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 14.09
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-06-14T19:45:25.760126069+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100614194525760126069-558",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 4.87662447089992,
+    "longitude" : 139.15371229715754,
+    "accuracy" : 0.6188848288659243
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-07-13T07:14:32.222502803+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100713071432222502803-313",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.71475074248208,
+    "longitude" : 20.819294732175283,
+    "accuracy" : 0.57597074775391
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-08-13T07:11:26.843366045+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100813071126843366045-377",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.24791976929871,
+    "longitude" : 6.481419517656965,
+    "accuracy" : 0.8135626631415166
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-09-14T01:54:27.326803304+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20100914015427326803304-524",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.39432719688048,
+    "longitude" : 51.410736793593465,
+    "accuracy" : 0.9386235181272481
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-10-14T14:31:15.03929066+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2010101414311539290660-346",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 65.15194362994104,
+    "longitude" : 160.65955947619932,
+    "accuracy" : 0.05597123728968956
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-11-12T02:50:52.101697268+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20101112025052101697268-332",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 15.887848031226184,
+    "longitude" : 71.90482448165199,
+    "accuracy" : 0.30250791445169933
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2010-12-10T15:11:33.395925041+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20101210151133395925041-884",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 11.65058938548542,
+    "longitude" : 142.84958128178522,
+    "accuracy" : 0.1340372995126402
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-01-10T16:16:15.41701895+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110110161615417018950-510",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 41.046069906239055,
+    "longitude" : 84.10997515123631,
+    "accuracy" : 0.9208481101366192
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-02-10T15:28:38.529761329+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110210152838529761329-811",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 22.574141909889725,
+    "longitude" : 169.5472626684401,
+    "accuracy" : 0.08817690508320852
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-03-10T09:29:16.177834909+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110310092916177834909-680",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 81.58099316548504,
+    "longitude" : 90.67394002076306,
+    "accuracy" : 0.5576257033364519
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-04-08T04:11:44.245919647+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110408041144245919647-200",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 12.901350307867569,
+    "longitude" : 9.619296716412267,
+    "accuracy" : 0.6768885766156055
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-05-06T15:42:55.645509404+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110506154255645509404-177",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 75.07295395135154,
+    "longitude" : 114.17196796377426,
+    "accuracy" : 0.6608989597865961
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-06-07T10:11:01.571939517+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110607101101571939517-482",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 89.90098803897465,
+    "longitude" : 60.05040105538248,
+    "accuracy" : 0.9727872406419174
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-07-07T17:23:37.957079701+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110707172337957079701-732",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.798263589980145,
+    "longitude" : 119.65001282396915,
+    "accuracy" : 0.13474808970807117
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-08-08T11:04:25.731131224+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110808110425731131224-933",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 10.362461949605215,
+    "longitude" : 96.3793316223944,
+    "accuracy" : 0.4358499972759454
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-09-08T04:11:27.386494784+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20110908041127386494784-675",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.17858519657642,
+    "longitude" : 81.06433714131069,
+    "accuracy" : 0.5766375257807994
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-10-07T12:12:03.271816839+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20111007121203271816839-645",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 32.92471040300004,
+    "longitude" : 76.94668438691473,
+    "accuracy" : 0.8116218281198482
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-11-07T23:51:26.387035011+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20111107235126387035011-413",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 38.05366128687824,
+    "longitude" : 6.1407424224706775,
+    "accuracy" : 0.8948373400205214
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2011-12-07T17:01:53.206569346+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20111207170153206569346-626",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 5.048492187876722,
+    "longitude" : 98.43394867912909,
+    "accuracy" : 0.7425572553998045
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.74,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.74,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.74
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-01-06T23:10:29.510646369+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120106231029510646369-386",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 22.56691314100929,
+    "longitude" : 20.186632283415914,
+    "accuracy" : 0.9975101285159997
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-02-06T04:45:16.763312852+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120206044516763312852-521",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 75.18601582861652,
+    "longitude" : 18.636329318442563,
+    "accuracy" : 0.956135199430355
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-03-07T19:56:14.577261825+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120307195614577261825-386",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 28.39931819747906,
+    "longitude" : 161.55418829082132,
+    "accuracy" : 0.27399580260491974
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-04-06T08:28:20.343751366+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120406082820343751366-028",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 66.75101869680107,
+    "longitude" : 105.20389011150944,
+    "accuracy" : 0.6841401474910723
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-05-07T06:14:15.648592323+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120507061415648592323-790",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 74.79705752316427,
+    "longitude" : 170.33211385486584,
+    "accuracy" : 0.4949640689235614
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-06-08T16:59:38.352779785+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120608165938352779785-194",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 65.32279069645243,
+    "longitude" : 82.72368893627937,
+    "accuracy" : 0.014961273312498191
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-07-06T05:58:09.577164138+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120706055809577164138-887",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 58.859890999865755,
+    "longitude" : 135.4515010889115,
+    "accuracy" : 0.3566933938442729
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-08-06T17:44:26.793952614+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120806174426793952614-558",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 79.92448556066786,
+    "longitude" : 162.32721888409583,
+    "accuracy" : 0.1973464055587546
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-09-05T02:26:21.754746295+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20120905022621754746295-949",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 15.022074941448377,
+    "longitude" : 105.05414355328186,
+    "accuracy" : 0.028047353761968763
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-10-05T10:29:38.367398274+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20121005102938367398274-358",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 88.54506227406831,
+    "longitude" : 54.904404702275485,
+    "accuracy" : 0.7877968626814948
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-11-06T18:32:57.434769699+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20121106183257434769699-237",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 62.657662419242314,
+    "longitude" : 104.03415103041894,
+    "accuracy" : 0.9264062028373043
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2012-12-05T02:05:19.115159196+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20121205020519115159196-940",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 40.27082310808418,
+    "longitude" : 173.39445278068888,
+    "accuracy" : 0.2970627970644686
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-01-04T22:36:02.20753885+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130104223602207538850-476",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 9.62569201657472,
+    "longitude" : 151.11145268121481,
+    "accuracy" : 0.5628129585577616
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-02-04T21:50:04.243158092+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130204215004243158092-232",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 29.916103795919923,
+    "longitude" : 115.65442532598222,
+    "accuracy" : 0.2789461160848896
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-03-04T23:11:39.827477857+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130304231139827477857-335",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 89.09502457746542,
+    "longitude" : 36.479038417381766,
+    "accuracy" : 0.548467256069532
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-04-03T00:47:57.419828549+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130403004757419828549-942",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.55249240996784,
+    "longitude" : 156.45714991508288,
+    "accuracy" : 0.25090675475816515
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-05-03T18:00:37.587573895+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130503180037587573895-233",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 29.967138748203134,
+    "longitude" : 176.55412438451424,
+    "accuracy" : 0.7228628710581684
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-06-04T20:24:41.319609106+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130604202441319609106-510",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 69.2832004024359,
+    "longitude" : 36.095913984442646,
+    "accuracy" : 0.37600714256040635
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-07-03T10:42:06.716410615+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130703104206716410615-496",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 12.631196675595223,
+    "longitude" : 89.72662226938812,
+    "accuracy" : 0.8257802421072672
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-08-02T18:13:42.674592219+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130802181342674592219-135",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 26.993945061927544,
+    "longitude" : 93.87412882741906,
+    "accuracy" : 0.4695187633094735
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-09-02T15:42:14.424126425+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20130902154214424126425-346",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 48.11833815847737,
+    "longitude" : 34.381465689880635,
+    "accuracy" : 0.820205083632127
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.17,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.17,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.17
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-10-02T02:06:24.626689668+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20131002020624626689668-180",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 48.71696074817642,
+    "longitude" : 111.78975307748135,
+    "accuracy" : 0.22144381263073576
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-11-01T08:15:28.232846772+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20131101081528232846772-887",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 88.21311547907993,
+    "longitude" : 106.03513367463057,
+    "accuracy" : 0.18445485346034507
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2013-12-02T22:18:30.61728675+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20131202221830617286750-541",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 11.71423293570199,
+    "longitude" : 97.98772398221685,
+    "accuracy" : 0.6817735105833761
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-01-03T00:49:54.659626254+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140103004954659626254-817",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 2.298970542637454,
+    "longitude" : 106.11097254936017,
+    "accuracy" : 0.36449985299924315
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-01-31T23:38:33.975281601+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140131233833975281601-417",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 85.73427062760183,
+    "longitude" : 122.7736596090291,
+    "accuracy" : 0.5898693774310034
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-02-28T09:41:36.762661184+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140228094136762661184-989",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 58.48009292579308,
+    "longitude" : 99.06658095483876,
+    "accuracy" : 0.9936133366852609
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.88,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.88,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.88
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-03-27T20:59:30.953974022+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140327205930953974022-797",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 9.098872300226082,
+    "longitude" : 72.429821701188,
+    "accuracy" : 0.9174613398902429
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-04-25T10:51:38.843134397+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140425105138843134397-553",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 51.24050448836776,
+    "longitude" : 141.33017510696416,
+    "accuracy" : 0.8966830808416999
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-05-23T14:02:00.174377116+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140523140200174377116-500",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 87.41466909232096,
+    "longitude" : 66.2978510764949,
+    "accuracy" : 0.23178941570450173
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.74,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.74,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.74
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-06-20T19:21:43.121336907+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140620192143121336907-636",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 1.1520841008981086,
+    "longitude" : 105.62669902157174,
+    "accuracy" : 0.5415546300404237
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-07-18T12:06:06.465759138+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140718120606465759138-877",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 86.25802545977858,
+    "longitude" : 5.67046090206393,
+    "accuracy" : 0.4497769030329095
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.28,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.28,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.28
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-08-15T02:00:11.832646468+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140815020011832646468-999",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 80.0105839582379,
+    "longitude" : 61.467678564971855,
+    "accuracy" : 0.006137000435525675
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-09-15T18:40:46.498956957+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20140915184046498956957-635",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 23.166784737217355,
+    "longitude" : 27.00303459093754,
+    "accuracy" : 0.5755163595156093
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.68,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.68,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.68
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-10-15T02:19:57.396386307+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20141015021957396386307-152",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 12.975956998883658,
+    "longitude" : 179.08613317378732,
+    "accuracy" : 0.7553390968548204
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.10,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.10,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.10
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-11-14T23:48:41.680491234+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20141114234841680491234-000",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 27.492067254829166,
+    "longitude" : 92.69438347465187,
+    "accuracy" : 0.11335059849431972
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2014-12-12T11:32:56.105916901+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20141212113256105916901-569",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.89640161710602,
+    "longitude" : 173.48350133258452,
+    "accuracy" : 0.6338520568191665
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-01-12T19:29:12.525435251+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150112192912525435251-463",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 21.4627423240012,
+    "longitude" : 8.648762611766916,
+    "accuracy" : 0.5162228374075426
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.42,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.42,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.42
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-02-12T11:30:16.99137255+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150212113016991372550-190",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.975396962163423,
+    "longitude" : 86.54300479138568,
+    "accuracy" : 0.7025436398886056
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-03-12T04:55:33.220633188+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150312045533220633188-603",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 71.63641045976041,
+    "longitude" : 38.283251570188085,
+    "accuracy" : 0.05265737475493171
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-04-10T11:40:31.17536887+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150410114031175368870-206",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.27175175552159,
+    "longitude" : 86.58418917172854,
+    "accuracy" : 0.17255081230791758
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-05-08T10:29:10.813538986+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150508102910813538986-883",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 66.34996935691974,
+    "longitude" : 18.1827988447473,
+    "accuracy" : 0.664423396201681
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 14.60,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 14.60,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 14.60
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-06-08T13:55:35.654331908+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150608135535654331908-080",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 62.63521346169933,
+    "longitude" : 144.69414240314262,
+    "accuracy" : 0.5561089465441205
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.79,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.79,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.79
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-07-07T18:53:17.616651581+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150707185317616651581-946",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 86.57563891288298,
+    "longitude" : 89.70744067316829,
+    "accuracy" : 0.31789951748596357
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 14.16,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 14.16,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 14.16
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-08-07T04:09:43.462439212+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150807040943462439212-325",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 58.70376842752166,
+    "longitude" : 103.06026187453075,
+    "accuracy" : 0.1717010129922807
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.70,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.70,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.70
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-09-04T05:30:52.591531966+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20150904053052591531966-576",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 41.13701859377434,
+    "longitude" : 64.12984054583346,
+    "accuracy" : 0.7730354651533692
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-10-02T06:55:34.77070853+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20151002065534770708530-733",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.795822618975656,
+    "longitude" : 38.421840908714145,
+    "accuracy" : 0.9814530676453492
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-11-03T05:08:04.473298333+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20151103050804473298333-155",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 73.34786002105524,
+    "longitude" : 86.02538492679854,
+    "accuracy" : 0.7756883838887653
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2015-12-04T18:43:32.761626252+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20151204184332761626252-451",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 86.71834661561778,
+    "longitude" : 87.44290374938026,
+    "accuracy" : 0.05189202653282621
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-01-01T15:29:14.827908416+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160101152914827908416-082",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.29810304025185,
+    "longitude" : 75.15639069543734,
+    "accuracy" : 0.4608181749693274
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-01-29T19:38:11.43922574+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160129193811439225740-259",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 51.77982420030423,
+    "longitude" : 5.352884292092142,
+    "accuracy" : 0.5848299960828799
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-02-26T19:35:02.694355514+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160226193502694355514-482",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 17.429810408657893,
+    "longitude" : 111.3865587338355,
+    "accuracy" : 0.8353901904024681
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 10.50,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 10.50,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 10.50
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-03-25T16:28:22.092160088+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2016032516282292160088-797",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 35.684014141291996,
+    "longitude" : 140.7651281244647,
+    "accuracy" : 0.8442703488352008
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-04-25T02:26:39.371768292+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160425022639371768292-132",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 81.24576450339077,
+    "longitude" : 130.437100243238,
+    "accuracy" : 0.9368492829973958
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-05-26T16:41:20.294836245+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160526164120294836245-104",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.54682645676906,
+    "longitude" : 125.37482018887549,
+    "accuracy" : 0.0617166804806798
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-06-24T20:53:26.726247215+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160624205326726247215-677",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 51.03281594187453,
+    "longitude" : 68.64523451973845,
+    "accuracy" : 0.49361468711690926
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-07-22T17:51:16.718103116+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160722175116718103116-996",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 84.59502438161572,
+    "longitude" : 27.76964170714053,
+    "accuracy" : 0.13902669534504164
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-08-22T04:36:55.613243851+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160822043655613243851-962",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 16.599924419319365,
+    "longitude" : 63.5470898463761,
+    "accuracy" : 0.6614495714063586
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-09-23T22:09:00.488616544+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20160923220900488616544-105",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 67.68416857482434,
+    "longitude" : 115.941393939903,
+    "accuracy" : 0.08640740566326799
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-10-24T19:32:11.265225407+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20161024193211265225407-144",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 53.060887622175315,
+    "longitude" : 11.939948414661522,
+    "accuracy" : 0.6108736715143943
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-11-23T16:42:57.497639406+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20161123164257497639406-346",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 24.43228623051,
+    "longitude" : 21.96202554202407,
+    "accuracy" : 0.8357615149337078
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2016-12-23T13:52:24.926403752+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20161223135224926403752-260",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 72.37830089856296,
+    "longitude" : 166.29596967461706,
+    "accuracy" : 0.23293404969644493
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.46,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.46,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.46
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-01-23T19:53:29.177001954+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170123195329177001954-268",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 51.027534486550955,
+    "longitude" : 164.9400045868216,
+    "accuracy" : 0.8746723228983528
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-02-23T02:16:47.628703868+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170223021647628703868-831",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 45.36942811705472,
+    "longitude" : 148.04381957343963,
+    "accuracy" : 0.8122615032148439
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-03-22T09:54:06.520399764+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170322095406520399764-713",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 77.54558050051251,
+    "longitude" : 23.667273350748587,
+    "accuracy" : 0.23117566034527381
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-04-21T19:27:04.348238728+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170421192704348238728-373",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 9.453573129238846,
+    "longitude" : 23.13383519528718,
+    "accuracy" : 0.26701638310033937
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-05-22T05:16:30.143219123+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170522051630143219123-947",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.429061219335258,
+    "longitude" : 31.57451794038098,
+    "accuracy" : 0.7763972361460776
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-06-21T09:04:50.600291274+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170621090450600291274-909",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 68.74948545060055,
+    "longitude" : 149.65336720405375,
+    "accuracy" : 0.5275377496284803
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-07-21T08:54:17.88310601+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170721085417883106010-731",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 21.7846708387581,
+    "longitude" : 5.047513261104708,
+    "accuracy" : 0.40713912817200903
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-08-21T04:53:45.878442473+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170821045345878442473-363",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 88.29983330630478,
+    "longitude" : 38.120535180251544,
+    "accuracy" : 0.749577306930417
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-09-21T10:08:48.82331499+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20170921100848823314990-123",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 83.03123259646962,
+    "longitude" : 82.70250285672783,
+    "accuracy" : 0.8113233236828374
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-10-20T23:03:42.332206239+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20171020230342332206239-220",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 57.10607137706812,
+    "longitude" : 7.820752169157171,
+    "accuracy" : 0.8588033645930729
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.88,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.88,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.88
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-11-17T07:05:47.057279723+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2017111707054757279723-164",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 5.600951375123637,
+    "longitude" : 24.41397230379434,
+    "accuracy" : 0.4575704953153157
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2017-12-15T09:58:13.701707878+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20171215095813701707878-761",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 34.444196180977286,
+    "longitude" : 128.82272786406435,
+    "accuracy" : 0.706580979262774
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-01-16T17:41:04.351484965+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180116174104351484965-553",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 81.94991014097621,
+    "longitude" : 28.88230870583594,
+    "accuracy" : 0.11120645958284103
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-02-16T16:25:28.39350364+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180216162528393503640-594",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 23.15823016130527,
+    "longitude" : 126.09388332777341,
+    "accuracy" : 0.6726982093982103
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-03-16T23:22:34.906107322+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180316232234906107322-580",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 19.763076126617854,
+    "longitude" : 8.40242126429905,
+    "accuracy" : 0.7078704238743166
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-04-16T10:48:40.830404915+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180416104840830404915-239",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 19.706156916915493,
+    "longitude" : 178.7966821607018,
+    "accuracy" : 0.042456235186188906
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.45,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.45,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.45
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-05-16T21:05:19.039851326+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2018051621051939851326-248",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.848195351540674,
+    "longitude" : 114.423575868412,
+    "accuracy" : 0.29253380053855405
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-06-15T06:05:33.756842832+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180615060533756842832-681",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 81.63689401710701,
+    "longitude" : 26.497684972168372,
+    "accuracy" : 0.582098113304169
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-07-13T07:24:45.175388936+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180713072445175388936-280",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 18.734332054234148,
+    "longitude" : 105.58230595743795,
+    "accuracy" : 0.39585745417157203
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-08-14T03:09:29.778364272+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180814030929778364272-749",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.304585027855346,
+    "longitude" : 112.18512209575198,
+    "accuracy" : 0.9430350245686272
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-09-13T20:54:49.852094102+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20180913205449852094102-206",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 19.8584056823771,
+    "longitude" : 64.53565067654105,
+    "accuracy" : 0.5554391989889034
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-10-12T03:38:51.576787663+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20181012033851576787663-197",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 60.869756076704576,
+    "longitude" : 62.26057840542404,
+    "accuracy" : 0.16723286918140978
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-11-12T16:07:55.749091041+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20181112160755749091041-404",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.163294411559946,
+    "longitude" : 132.79056449493294,
+    "accuracy" : 0.6407931343140907
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 14.55,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 14.55,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 14.55
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2018-12-11T05:14:35.055707162+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2018121105143555707162-294",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 43.70251590157895,
+    "longitude" : 32.47520528646829,
+    "accuracy" : 0.6656416380936256
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-01-11T11:52:06.528497864+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190111115206528497864-177",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.16390516642555,
+    "longitude" : 172.4680773201075,
+    "accuracy" : 0.5767532253356082
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-02-08T13:54:43.034316372+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2019020813544334316372-394",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 61.7998774427064,
+    "longitude" : 124.53656854046469,
+    "accuracy" : 0.9252288905669807
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-03-07T05:56:23.324627986+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190307055623324627986-550",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 15.249018594993544,
+    "longitude" : 4.891153893835982,
+    "accuracy" : 0.5407571386997502
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-04-08T09:05:32.419800431+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190408090532419800431-344",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 58.024811563746496,
+    "longitude" : 71.83715985104847,
+    "accuracy" : 0.8729646054594543
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-05-09T14:54:14.793005248+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190509145414793005248-682",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 52.24809621965825,
+    "longitude" : 169.6212645026942,
+    "accuracy" : 0.0034837453684807285
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-06-10T11:09:34.996171952+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190610110934996171952-709",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 41.26703513069587,
+    "longitude" : 89.36890842513957,
+    "accuracy" : 0.042502498288183976
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-07-11T14:24:36.980476493+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190711142436980476493-037",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 24.44583258389311,
+    "longitude" : 136.477604374661,
+    "accuracy" : 0.06298703407038186
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-08-09T08:07:04.061235639+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2019080908070461235639-069",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 24.17775414978069,
+    "longitude" : 20.36001743736262,
+    "accuracy" : 0.8357890136295691
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-09-09T15:56:46.740866926+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20190909155646740866926-685",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 77.14540381676137,
+    "longitude" : 78.91472944946804,
+    "accuracy" : 0.34793736465770886
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-10-09T23:31:29.680730176+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20191009233129680730176-520",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 33.78727333545567,
+    "longitude" : 49.37307521655224,
+    "accuracy" : 0.39992645879945643
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-11-08T08:40:46.877288916+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20191108084046877288916-814",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 16.828462825427344,
+    "longitude" : 127.99770671973523,
+    "accuracy" : 0.7679706206101522
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2019-12-06T21:39:46.108667358+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20191206213946108667358-948",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 27.30793327962219,
+    "longitude" : 53.198988569507165,
+    "accuracy" : 0.3131037570671166
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-01-06T01:36:27.3453706+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200106013627345370600-685",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.716472504825646,
+    "longitude" : 55.63388696432274,
+    "accuracy" : 0.6466371166381475
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-02-07T16:06:49.395193281+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200207160649395193281-946",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 13.299059678625616,
+    "longitude" : 31.340399297547325,
+    "accuracy" : 0.19370026783085936
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-03-06T21:54:12.901306589+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200306215412901306589-178",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 16.229321334683945,
+    "longitude" : 126.55918195383663,
+    "accuracy" : 0.16806232750726258
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.06,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.06,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.06
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-04-03T06:58:36.894328516+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200403065836894328516-408",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 49.02715339388875,
+    "longitude" : 170.857223799631,
+    "accuracy" : 0.258988380644976
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-05-04T07:35:00.97466988+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200504073500974669880-042",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 78.58786806954424,
+    "longitude" : 69.99928600636747,
+    "accuracy" : 0.9433801109918346
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.12,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.12,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.12
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-06-04T01:13:08.584606206+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200604011308584606206-768",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 7.010742458391947,
+    "longitude" : 157.90162441888134,
+    "accuracy" : 0.3835760515660036
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-07-03T15:19:22.466363217+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200703151922466363217-539",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 7.062605682991463,
+    "longitude" : 57.168415252959015,
+    "accuracy" : 0.07826734779472522
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-07-31T20:32:35.957539555+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200731203235957539555-601",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 20.360047002342156,
+    "longitude" : 104.61420392149132,
+    "accuracy" : 0.025491397774059954
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-08-31T01:00:52.262872326+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200831010052262872326-063",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 68.76281000150956,
+    "longitude" : 69.33368857791076,
+    "accuracy" : 0.7593640638248723
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-09-29T22:25:56.607640573+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20200929222556607640573-029",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 7.982256430186519,
+    "longitude" : 38.09161189350041,
+    "accuracy" : 0.8379929673741638
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-10-29T20:38:31.912813288+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20201029203831912813288-695",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 29.819809131753743,
+    "longitude" : 105.29970247767652,
+    "accuracy" : 0.9224359921731057
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-11-27T18:28:57.785908563+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20201127182857785908563-332",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 64.30796654140005,
+    "longitude" : 60.58787947329537,
+    "accuracy" : 0.0813258224416592
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2020-12-25T06:31:56.317740388+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20201225063156317740388-816",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 44.258221324785936,
+    "longitude" : 52.085083539732366,
+    "accuracy" : 0.3619446193461493
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-01-25T08:58:08.186423975+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210125085808186423975-789",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 32.106131499816414,
+    "longitude" : 90.38483736256309,
+    "accuracy" : 0.8986079996955043
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-02-26T06:31:15.155992448+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210226063115155992448-746",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 5.384257040993959,
+    "longitude" : 125.86423583662803,
+    "accuracy" : 0.181058986316315
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-03-25T10:00:55.577883444+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210325100055577883444-718",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 14.767827285605119,
+    "longitude" : 15.571943630908024,
+    "accuracy" : 0.1739047930010449
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-04-23T08:22:19.063281547+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2021042308221963281547-353",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 35.62889784321135,
+    "longitude" : 162.820077285028,
+    "accuracy" : 0.5995298855302286
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.70,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.70,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.70
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-05-21T12:08:40.322191323+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210521120840322191323-696",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.58932991868189,
+    "longitude" : 154.82197592916148,
+    "accuracy" : 0.25233231018671975
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-06-21T05:23:55.218334044+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210621052355218334044-477",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 3.4772811686615004,
+    "longitude" : 149.82466429958507,
+    "accuracy" : 0.9556119553766225
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.58,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.58,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.58
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-07-22T20:24:10.943039106+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210722202410943039106-594",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 6.2142011843025795,
+    "longitude" : 123.24345636128282,
+    "accuracy" : 0.7578763301553553
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-08-20T01:20:38.683593567+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210820012038683593567-204",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 24.90505559802635,
+    "longitude" : 154.76320258713585,
+    "accuracy" : 0.4803568203381894
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-09-17T09:31:51.868009466+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20210917093151868009466-299",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 49.74978938528034,
+    "longitude" : 152.6494878065344,
+    "accuracy" : 0.4222069962006475
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-10-15T09:40:22.147478669+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20211015094022147478669-302",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 54.28818209413959,
+    "longitude" : 25.74402196724609,
+    "accuracy" : 0.7973091168672574
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.50,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.50,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.50
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-11-16T04:17:39.332364319+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20211116041739332364319-685",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 26.802198862447575,
+    "longitude" : 15.52659538567202,
+    "accuracy" : 0.12223787326102264
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2021-12-16T18:56:24.839758662+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20211216185624839758662-599",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 9.527578282291515,
+    "longitude" : 97.2780723600412,
+    "accuracy" : 0.21937912370044776
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-01-14T19:48:07.000455931+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220114194807455931-873",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 47.40299251715962,
+    "longitude" : 55.03780209590784,
+    "accuracy" : 0.3938418181655665
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-02-15T07:17:26.493970437+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220215071726493970437-107",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 61.75006062614174,
+    "longitude" : 131.2072136213629,
+    "accuracy" : 0.5912484747975353
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-03-15T05:55:11.539398683+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220315055511539398683-261",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 16.65791653819784,
+    "longitude" : 54.46220752823427,
+    "accuracy" : 0.696429201514492
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-04-14T09:08:56.833543329+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220414090856833543329-703",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 30.891953922155302,
+    "longitude" : 3.3949904566939337,
+    "accuracy" : 0.9755531904849863
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-05-13T07:26:43.712646405+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220513072643712646405-444",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 63.57126370985751,
+    "longitude" : 159.18556968539656,
+    "accuracy" : 0.41222655032963906
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-06-14T00:12:06.514917654+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220614001206514917654-037",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 0.9033999647666968,
+    "longitude" : 91.68807723777246,
+    "accuracy" : 0.012342621636854734
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.84,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.84,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.84
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-07-14T00:45:33.55622595+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220714004533556225950-808",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 8.655117360511445,
+    "longitude" : 103.54179322211455,
+    "accuracy" : 0.1866332454378865
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-08-12T22:20:14.595639238+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220812222014595639238-466",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 75.96179730872555,
+    "longitude" : 61.58016101671561,
+    "accuracy" : 0.691544688468301
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-09-13T04:03:12.645832331+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20220913040312645832331-247",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 14.571704389387582,
+    "longitude" : 93.15537047229391,
+    "accuracy" : 0.6192669253013463
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 11.63,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 11.63,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 11.63
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-10-13T18:53:46.946722398+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20221013185346946722398-384",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 60.16807461577088,
+    "longitude" : 43.8090376034055,
+    "accuracy" : 0.5891266331256041
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 13.71,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 13.71,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 13.71
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-11-11T03:11:46.226097321+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20221111031146226097321-422",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 62.176689452647615,
+    "longitude" : 103.65518014927353,
+    "accuracy" : 0.8874742435088266
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2022-12-12T23:47:11.238986689+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20221212234711238986689-106",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 1.0095771630735795,
+    "longitude" : 45.57343599517502,
+    "accuracy" : 0.885109931150339
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-01-12T07:54:06.295658488+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20230112075406295658488-934",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 29.921247272632094,
+    "longitude" : 20.136990986674782,
+    "accuracy" : 0.5402007472554785
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-02-10T08:05:21.998994259+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20230210080521998994259-641",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 85.42933511784447,
+    "longitude" : 132.57920972448312,
+    "accuracy" : 0.5806023575926287
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-03-10T00:00:37.818752312+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20230310000037818752312-902",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 24.181303356702518,
+    "longitude" : 177.65818194644316,
+    "accuracy" : 0.9817986584692286
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-04-10T01:56:11.313460928+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20230410015611313460928-266",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 53.99333835146184,
+    "longitude" : 69.2102460128998,
+    "accuracy" : 0.5436561971978789
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-05-11T22:22:24.63018947+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20230511222224630189470-945",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 22.933509120706173,
+    "longitude" : 92.46356360667016,
+    "accuracy" : 0.6761052364725392
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-06-12T07:43:13.059216305+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-2023061207431359216305-195",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 51.795263955265035,
+    "longitude" : 143.80121261644288,
+    "accuracy" : 0.6554441929389866
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+}, {
+  "user" : "C12032",
+  "date" : "2023-07-13T17:14:12.10736466+08:00",
+  "activity" : "BILLPAY",
+  "reference" : "BP-20230713171412107364660-915",
+  "status" : "S",
+  "geolocation" : {
+    "latitude" : 77.0664674073613,
+    "longitude" : 78.51335575229771,
+    "accuracy" : 0.6187353919735396
+  },
+  "data" : {
+    "schema" : "BILLPAY",
+    "schemaVersion" : 1,
+    "debitAccountId" : "10000000001",
+    "debitCcy" : "SGD",
+    "debitAmount" : 12.22,
+    "exchangeRate" : 1,
+    "localEquivAmount" : 12.22,
+    "localEquivRate" : 1,
+    "billerCode" : "SINGTEL",
+    "billerCcy" : "SGD",
+    "billAmount" : 12.22
+  }
+} ]
